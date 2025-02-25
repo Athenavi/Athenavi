@@ -1,4 +1,4 @@
-![](http://tangzy.love/index.php/s/7zG8Tb8ZexYaWNT/preview)
+![](7trees.cn/favicon.ico)
 
 ### Hi there 👋
 
@@ -6,26 +6,12 @@
 
 # Athenavi
 
-## 
-
-## 职业
--Student
-
-## 技能
-- 编程语言：JavaScript, Python, Java
-- 前端开发：HTML, CSS, JavaScript, React
-- 后端开发：Node.js, Express, Django
-- 数据库：MySQL, MongoDB
-
-## 工作经验
-- -
 
 ## 个人项目
 - 项目名称：zyBLOG博客
-  描述：一个基于 flask 和 bootstrap 的个人博客网站，用于分享技术文章和个人经验。
+  描述：一个基于 flask 的个人博客网站，用于分享技术文章和个人经验。
+- 项目名称：Athenavi Music
+  描述：一个基于 flask 和 React 的音乐网站，用于听歌
 
-## 社交媒体和联系方式
+## Github
 - GitHub: https://github.com/Athenavi
-- 邮箱：support@7trees.cn
-- 手机：--
-
